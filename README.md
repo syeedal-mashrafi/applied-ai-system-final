@@ -15,7 +15,7 @@ This version adds **Retrieval-Augmented Generation (RAG)**:
 - Full evaluation harness with pass/fail scoring
 
 ## Demo Walkthrough
-[Watch the Loom video here](https://loom.com/share/db3cc2f6d0ac438d8906cba9b0d29899)
+[Watch the Loom video here](https://www.loom.com/share/db3cc2f6d0ac438d8906cba9b0d29899)
 
 ## System Architecture
 See `assets/architecture_diagram.png`
