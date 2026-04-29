@@ -1,0 +1,15 @@
+2026-04-29 01:22:53,443 - INFO - Sending RAG prompt for mood: sad
+2026-04-29 01:22:53,723 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2026-04-29 01:27:30,182 - INFO - Sending RAG prompt for mood: sad
+2026-04-29 01:27:37,017 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-04-29 01:27:37,044 - INFO - Response received.
+2026-04-29 01:28:28,666 - INFO - Sending RAG prompt for mood: study
+2026-04-29 01:28:33,748 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-04-29 01:28:33,749 - INFO - Response received.
+2026-04-29 01:29:22,246 - WARNING - Invalid input blocked: 
+2026-04-29 01:31:39,360 - INFO - Sending RAG prompt for mood: I feel really sad and heartbroken
+2026-04-29 01:31:45,765 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-04-29 01:31:45,790 - INFO - Response received.
+2026-04-29 01:31:46,792 - INFO - Sending RAG prompt for mood: I need energy for my workout
+2026-04-29 01:31:52,726 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-04-29 01:31:52,727 - INFO - Response received.
